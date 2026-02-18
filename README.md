@@ -20,7 +20,7 @@ Sustainable Technology Articles
 
 Contact
 - Email: [kumarisinghanjali8825@gmail.com](mailto:kumarisinghanjali8825@gmail.com)  
-- LinkedIn: [Anjali Kumari LinkedIn](https://www.linkedin.com/in/anjaliii016)  
+- LinkedIn:www.linkedin.com/in/anjaliii016
 - GitHub: [anjali09076 GitHub](https://github.com/anjali09076)  
 - Website: [icytales53.wordpress.com](https://icytales53.wordpress.com)
 

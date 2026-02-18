@@ -1,4 +1,5 @@
-Anjali Kumari – Technical Writing Portfolio
+  Anjali Kumari – Technical Writing Portfolio
+  
 Welcome to my Technical Writing portfolio!  
 I am a Computer Science & Engineering student passionate about technical writing, API documentation, and sustainable technology. Below are some of the projects and guides I've worked on.
 
